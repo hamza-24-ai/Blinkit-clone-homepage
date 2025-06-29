@@ -34,7 +34,7 @@ media.css
 ## 🙋‍♂️ Author
 
 - **Your Name**  
-- GitHub: [@hamza-24-a1](https://github.com/hamza-24-a1)
+- GitHub: [@hamza-24-a1](https://github.com/hamza-24-ai)
 
 ---
 
